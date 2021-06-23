@@ -1,0 +1,2 @@
+
+g++ main.cpp saham.cpp matauang.cpp produksibarang.cpp soal_faul.cpp soal_agas.cpp soal_arga.cpp perkembanganekonomi.cpp income.cpp expenditure.cpp inflasi.cpp ihk.cpp bunga.cpp laba.cpp ppn.cpp tara.cpp  -o main
